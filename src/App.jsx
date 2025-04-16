@@ -4,6 +4,7 @@ import ListUsers from "./pages/listUsers";
 import Login from "./pages/Login";
 import Cadastro from "./pages/Cadastro";
 import ProtectedRoute from "./components/ProtectedRoute";
+// import listEvents from "./pages/listEvents";
 
 function App() {
   return (
